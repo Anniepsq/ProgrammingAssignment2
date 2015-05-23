@@ -42,3 +42,4 @@ cacheSolve <- function(x, ...) {
 
 ## the following is an example for testing
 x <- makeCacheMatrix(matrix(1:4, 2,2))
+
